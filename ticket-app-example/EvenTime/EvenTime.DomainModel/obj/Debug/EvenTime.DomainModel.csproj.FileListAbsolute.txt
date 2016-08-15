@@ -1,0 +1,68 @@
+C:\Users\Tomislav\Desktop\EvenTime\EvenTime.DomainModel\obj\Debug\EvenTime.DomainModel.csprojResolveAssemblyReference.cache
+C:\Users\Tomislav\Desktop\EvenTime\EvenTime.DomainModel\bin\Debug\x64\SQLite.Interop.dll
+C:\Users\Tomislav\Desktop\EvenTime\EvenTime.DomainModel\bin\Debug\x86\SQLite.Interop.dll
+C:\Users\Tomislav\Desktop\EvenTime\EvenTime.DomainModel\bin\Debug\EvenTime.DomainModel.dll.config
+C:\Users\Tomislav\Desktop\EvenTime\EvenTime.DomainModel\bin\Debug\EvenTime.DomainModel.dll
+C:\Users\Tomislav\Desktop\EvenTime\EvenTime.DomainModel\bin\Debug\EvenTime.DomainModel.pdb
+C:\Users\Tomislav\Desktop\EvenTime\EvenTime.DomainModel\bin\Debug\FluentNHibernate.dll
+C:\Users\Tomislav\Desktop\EvenTime\EvenTime.DomainModel\bin\Debug\Iesi.Collections.dll
+C:\Users\Tomislav\Desktop\EvenTime\EvenTime.DomainModel\bin\Debug\NHibernate.dll
+C:\Users\Tomislav\Desktop\EvenTime\EvenTime.DomainModel\bin\Debug\System.Data.SQLite.dll
+C:\Users\Tomislav\Desktop\EvenTime\EvenTime.DomainModel\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\Tomislav\Desktop\EvenTime\EvenTime.DomainModel\bin\Debug\FluentNHibernate.xml
+C:\Users\Tomislav\Desktop\EvenTime\EvenTime.DomainModel\bin\Debug\Iesi.Collections.xml
+C:\Users\Tomislav\Desktop\EvenTime\EvenTime.DomainModel\bin\Debug\NHibernate.xml
+C:\Users\Tomislav\Desktop\EvenTime\EvenTime.DomainModel\bin\Debug\System.Data.SQLite.xml
+C:\Users\Tomislav\Desktop\EvenTime\EvenTime.DomainModel\obj\Debug\EvenTime.DomainModel.dll
+C:\Users\Tomislav\Desktop\EvenTime\EvenTime.DomainModel\obj\Debug\EvenTime.DomainModel.pdb
+C:\Users\Tomislav\Desktop\EvenTime-dam\EvenTime.DomainModel\bin\Debug\x64\SQLite.Interop.dll
+C:\Users\Tomislav\Desktop\EvenTime-dam\EvenTime.DomainModel\bin\Debug\x86\SQLite.Interop.dll
+C:\Users\Tomislav\Desktop\EvenTime-dam\EvenTime.DomainModel\bin\Debug\EvenTime.DomainModel.dll.config
+C:\Users\Tomislav\Desktop\EvenTime-dam\EvenTime.DomainModel\bin\Debug\EvenTime.DomainModel.dll
+C:\Users\Tomislav\Desktop\EvenTime-dam\EvenTime.DomainModel\bin\Debug\EvenTime.DomainModel.pdb
+C:\Users\Tomislav\Desktop\EvenTime-dam\EvenTime.DomainModel\bin\Debug\FluentNHibernate.dll
+C:\Users\Tomislav\Desktop\EvenTime-dam\EvenTime.DomainModel\bin\Debug\Iesi.Collections.dll
+C:\Users\Tomislav\Desktop\EvenTime-dam\EvenTime.DomainModel\bin\Debug\NHibernate.dll
+C:\Users\Tomislav\Desktop\EvenTime-dam\EvenTime.DomainModel\bin\Debug\System.Data.SQLite.dll
+C:\Users\Tomislav\Desktop\EvenTime-dam\EvenTime.DomainModel\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\Tomislav\Desktop\EvenTime-dam\EvenTime.DomainModel\bin\Debug\FluentNHibernate.xml
+C:\Users\Tomislav\Desktop\EvenTime-dam\EvenTime.DomainModel\bin\Debug\Iesi.Collections.xml
+C:\Users\Tomislav\Desktop\EvenTime-dam\EvenTime.DomainModel\bin\Debug\NHibernate.xml
+C:\Users\Tomislav\Desktop\EvenTime-dam\EvenTime.DomainModel\bin\Debug\System.Data.SQLite.xml
+C:\Users\Tomislav\Desktop\EvenTime-dam\EvenTime.DomainModel\obj\Debug\EvenTime.DomainModel.csprojResolveAssemblyReference.cache
+C:\Users\Tomislav\Desktop\EvenTime-dam\EvenTime.DomainModel\obj\Debug\EvenTime.DomainModel.dll
+C:\Users\Tomislav\Desktop\EvenTime-dam\EvenTime.DomainModel\obj\Debug\EvenTime.DomainModel.pdb
+C:\Users\Tomislav\Desktop\EvenTime-dam - Copy\EvenTime.DomainModel\bin\Debug\x64\SQLite.Interop.dll
+C:\Users\Tomislav\Desktop\EvenTime-dam - Copy\EvenTime.DomainModel\bin\Debug\x86\SQLite.Interop.dll
+C:\Users\Tomislav\Desktop\EvenTime-dam - Copy\EvenTime.DomainModel\bin\Debug\EvenTime.DomainModel.dll.config
+C:\Users\Tomislav\Desktop\EvenTime-dam - Copy\EvenTime.DomainModel\bin\Debug\EvenTime.DomainModel.dll
+C:\Users\Tomislav\Desktop\EvenTime-dam - Copy\EvenTime.DomainModel\bin\Debug\EvenTime.DomainModel.pdb
+C:\Users\Tomislav\Desktop\EvenTime-dam - Copy\EvenTime.DomainModel\bin\Debug\FluentNHibernate.dll
+C:\Users\Tomislav\Desktop\EvenTime-dam - Copy\EvenTime.DomainModel\bin\Debug\Iesi.Collections.dll
+C:\Users\Tomislav\Desktop\EvenTime-dam - Copy\EvenTime.DomainModel\bin\Debug\NHibernate.dll
+C:\Users\Tomislav\Desktop\EvenTime-dam - Copy\EvenTime.DomainModel\bin\Debug\System.Data.SQLite.dll
+C:\Users\Tomislav\Desktop\EvenTime-dam - Copy\EvenTime.DomainModel\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\Tomislav\Desktop\EvenTime-dam - Copy\EvenTime.DomainModel\bin\Debug\FluentNHibernate.xml
+C:\Users\Tomislav\Desktop\EvenTime-dam - Copy\EvenTime.DomainModel\bin\Debug\Iesi.Collections.xml
+C:\Users\Tomislav\Desktop\EvenTime-dam - Copy\EvenTime.DomainModel\bin\Debug\NHibernate.xml
+C:\Users\Tomislav\Desktop\EvenTime-dam - Copy\EvenTime.DomainModel\bin\Debug\System.Data.SQLite.xml
+C:\Users\Tomislav\Desktop\EvenTime-dam - Copy\EvenTime.DomainModel\obj\Debug\EvenTime.DomainModel.csprojResolveAssemblyReference.cache
+C:\Users\Tomislav\Desktop\EvenTime-dam - Copy\EvenTime.DomainModel\obj\Debug\EvenTime.DomainModel.dll
+C:\Users\Tomislav\Desktop\EvenTime-dam - Copy\EvenTime.DomainModel\obj\Debug\EvenTime.DomainModel.pdb
+C:\Users\Tomislav\Desktop\EvenTime-hehe\EvenTime.DomainModel\bin\Debug\x64\SQLite.Interop.dll
+C:\Users\Tomislav\Desktop\EvenTime-hehe\EvenTime.DomainModel\bin\Debug\x86\SQLite.Interop.dll
+C:\Users\Tomislav\Desktop\EvenTime-hehe\EvenTime.DomainModel\bin\Debug\EvenTime.DomainModel.dll.config
+C:\Users\Tomislav\Desktop\EvenTime-hehe\EvenTime.DomainModel\bin\Debug\EvenTime.DomainModel.dll
+C:\Users\Tomislav\Desktop\EvenTime-hehe\EvenTime.DomainModel\bin\Debug\EvenTime.DomainModel.pdb
+C:\Users\Tomislav\Desktop\EvenTime-hehe\EvenTime.DomainModel\bin\Debug\FluentNHibernate.dll
+C:\Users\Tomislav\Desktop\EvenTime-hehe\EvenTime.DomainModel\bin\Debug\Iesi.Collections.dll
+C:\Users\Tomislav\Desktop\EvenTime-hehe\EvenTime.DomainModel\bin\Debug\NHibernate.dll
+C:\Users\Tomislav\Desktop\EvenTime-hehe\EvenTime.DomainModel\bin\Debug\System.Data.SQLite.dll
+C:\Users\Tomislav\Desktop\EvenTime-hehe\EvenTime.DomainModel\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\Tomislav\Desktop\EvenTime-hehe\EvenTime.DomainModel\bin\Debug\FluentNHibernate.xml
+C:\Users\Tomislav\Desktop\EvenTime-hehe\EvenTime.DomainModel\bin\Debug\Iesi.Collections.xml
+C:\Users\Tomislav\Desktop\EvenTime-hehe\EvenTime.DomainModel\bin\Debug\NHibernate.xml
+C:\Users\Tomislav\Desktop\EvenTime-hehe\EvenTime.DomainModel\bin\Debug\System.Data.SQLite.xml
+C:\Users\Tomislav\Desktop\EvenTime-hehe\EvenTime.DomainModel\obj\Debug\EvenTime.DomainModel.csprojResolveAssemblyReference.cache
+C:\Users\Tomislav\Desktop\EvenTime-hehe\EvenTime.DomainModel\obj\Debug\EvenTime.DomainModel.dll
+C:\Users\Tomislav\Desktop\EvenTime-hehe\EvenTime.DomainModel\obj\Debug\EvenTime.DomainModel.pdb

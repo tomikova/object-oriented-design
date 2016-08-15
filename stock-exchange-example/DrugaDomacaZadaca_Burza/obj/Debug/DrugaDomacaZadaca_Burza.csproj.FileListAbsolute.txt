@@ -1,0 +1,15 @@
+C:\Users\Tomislav\Desktop\DrugaDomacaZadaca_Burza\DrugaDomacaZadaca_Burza\bin\Debug\DrugaDomacaZadaca_Burza.exe
+C:\Users\Tomislav\Desktop\DrugaDomacaZadaca_Burza\DrugaDomacaZadaca_Burza\bin\Debug\DrugaDomacaZadaca_Burza.pdb
+C:\Users\Tomislav\Desktop\DrugaDomacaZadaca_Burza\DrugaDomacaZadaca_Burza\obj\Debug\DrugaDomacaZadaca_Burza.csprojResolveAssemblyReference.cache
+C:\Users\Tomislav\Desktop\DrugaDomacaZadaca_Burza\DrugaDomacaZadaca_Burza\obj\Debug\DrugaDomacaZadaca_Burza.exe
+C:\Users\Tomislav\Desktop\DrugaDomacaZadaca_Burza\DrugaDomacaZadaca_Burza\obj\Debug\DrugaDomacaZadaca_Burza.pdb
+C:\Users\Tomislav\Desktop\obl\DrugaDomacaZadaca_Burza\DrugaDomacaZadaca_Burza\obj\Debug\DrugaDomacaZadaca_Burza.exe
+C:\Users\Tomislav\Desktop\obl\DrugaDomacaZadaca_Burza\DrugaDomacaZadaca_Burza\obj\Debug\DrugaDomacaZadaca_Burza.pdb
+C:\Users\Tomislav\Desktop\obl\DrugaDomacaZadaca_Burza\DrugaDomacaZadaca_Burza\bin\Debug\DrugaDomacaZadaca_Burza.exe
+C:\Users\Tomislav\Desktop\obl\DrugaDomacaZadaca_Burza\DrugaDomacaZadaca_Burza\bin\Debug\DrugaDomacaZadaca_Burza.pdb
+C:\Users\Tomislav\Desktop\obl\DrugaDomacaZadaca_Burza\DrugaDomacaZadaca_Burza\obj\Debug\DrugaDomacaZadaca_Burza.csprojResolveAssemblyReference.cache
+C:\Users\Tomislav\Desktop\v2\DrugaDomacaZadaca_Burza\DrugaDomacaZadaca_Burza\obj\Debug\DrugaDomacaZadaca_Burza.exe
+C:\Users\Tomislav\Desktop\v2\DrugaDomacaZadaca_Burza\DrugaDomacaZadaca_Burza\obj\Debug\DrugaDomacaZadaca_Burza.pdb
+C:\Users\Tomislav\Desktop\v2\DrugaDomacaZadaca_Burza\DrugaDomacaZadaca_Burza\obj\Debug\DrugaDomacaZadaca_Burza.csprojResolveAssemblyReference.cache
+C:\Users\Tomislav\Desktop\v2\DrugaDomacaZadaca_Burza\DrugaDomacaZadaca_Burza\bin\Debug\DrugaDomacaZadaca_Burza.exe
+C:\Users\Tomislav\Desktop\v2\DrugaDomacaZadaca_Burza\DrugaDomacaZadaca_Burza\bin\Debug\DrugaDomacaZadaca_Burza.pdb

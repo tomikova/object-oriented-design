@@ -1,0 +1,45 @@
+C:\Users\Tomislav\Desktop\EvenTime\EvenTime.Tests\obj\Debug\EvenTime.Tests.csprojResolveAssemblyReference.cache
+C:\Users\Tomislav\Desktop\EvenTime\EvenTime.Tests\bin\Debug\x64\SQLite.Interop.dll
+C:\Users\Tomislav\Desktop\EvenTime\EvenTime.Tests\bin\Debug\x86\SQLite.Interop.dll
+C:\Users\Tomislav\Desktop\EvenTime\EvenTime.Tests\bin\Debug\EvenTime.Tests.dll
+C:\Users\Tomislav\Desktop\EvenTime\EvenTime.Tests\bin\Debug\EvenTime.Tests.pdb
+C:\Users\Tomislav\Desktop\EvenTime\EvenTime.Tests\bin\Debug\EvenTime.DomainModel.dll
+C:\Users\Tomislav\Desktop\EvenTime\EvenTime.Tests\bin\Debug\FluentNHibernate.dll
+C:\Users\Tomislav\Desktop\EvenTime\EvenTime.Tests\bin\Debug\NHibernate.dll
+C:\Users\Tomislav\Desktop\EvenTime\EvenTime.Tests\bin\Debug\Iesi.Collections.dll
+C:\Users\Tomislav\Desktop\EvenTime\EvenTime.Tests\bin\Debug\EvenTime.DomainModel.pdb
+C:\Users\Tomislav\Desktop\EvenTime\EvenTime.Tests\bin\Debug\FluentNHibernate.xml
+C:\Users\Tomislav\Desktop\EvenTime\EvenTime.Tests\bin\Debug\NHibernate.xml
+C:\Users\Tomislav\Desktop\EvenTime\EvenTime.Tests\bin\Debug\Iesi.Collections.xml
+C:\Users\Tomislav\Desktop\EvenTime\EvenTime.Tests\obj\Debug\EvenTime.Tests.dll
+C:\Users\Tomislav\Desktop\EvenTime\EvenTime.Tests\obj\Debug\EvenTime.Tests.pdb
+C:\Users\Tomislav\Desktop\EvenTime-dam\EvenTime.Tests\bin\Debug\x64\SQLite.Interop.dll
+C:\Users\Tomislav\Desktop\EvenTime-dam\EvenTime.Tests\bin\Debug\x86\SQLite.Interop.dll
+C:\Users\Tomislav\Desktop\EvenTime-dam\EvenTime.Tests\bin\Debug\EvenTime.Tests.dll
+C:\Users\Tomislav\Desktop\EvenTime-dam\EvenTime.Tests\bin\Debug\EvenTime.Tests.pdb
+C:\Users\Tomislav\Desktop\EvenTime-dam\EvenTime.Tests\bin\Debug\EvenTime.DomainModel.dll
+C:\Users\Tomislav\Desktop\EvenTime-dam\EvenTime.Tests\bin\Debug\FluentNHibernate.dll
+C:\Users\Tomislav\Desktop\EvenTime-dam\EvenTime.Tests\bin\Debug\NHibernate.dll
+C:\Users\Tomislav\Desktop\EvenTime-dam\EvenTime.Tests\bin\Debug\Iesi.Collections.dll
+C:\Users\Tomislav\Desktop\EvenTime-dam\EvenTime.Tests\bin\Debug\EvenTime.DomainModel.pdb
+C:\Users\Tomislav\Desktop\EvenTime-dam\EvenTime.Tests\bin\Debug\FluentNHibernate.xml
+C:\Users\Tomislav\Desktop\EvenTime-dam\EvenTime.Tests\bin\Debug\NHibernate.xml
+C:\Users\Tomislav\Desktop\EvenTime-dam\EvenTime.Tests\bin\Debug\Iesi.Collections.xml
+C:\Users\Tomislav\Desktop\EvenTime-dam\EvenTime.Tests\obj\Debug\EvenTime.Tests.csprojResolveAssemblyReference.cache
+C:\Users\Tomislav\Desktop\EvenTime-dam\EvenTime.Tests\obj\Debug\EvenTime.Tests.dll
+C:\Users\Tomislav\Desktop\EvenTime-dam\EvenTime.Tests\obj\Debug\EvenTime.Tests.pdb
+C:\Users\Tomislav\Desktop\EvenTime-dam - Copy\EvenTime.Tests\bin\Debug\x64\SQLite.Interop.dll
+C:\Users\Tomislav\Desktop\EvenTime-dam - Copy\EvenTime.Tests\bin\Debug\x86\SQLite.Interop.dll
+C:\Users\Tomislav\Desktop\EvenTime-dam - Copy\EvenTime.Tests\bin\Debug\EvenTime.Tests.dll
+C:\Users\Tomislav\Desktop\EvenTime-dam - Copy\EvenTime.Tests\bin\Debug\EvenTime.Tests.pdb
+C:\Users\Tomislav\Desktop\EvenTime-dam - Copy\EvenTime.Tests\bin\Debug\EvenTime.DomainModel.dll
+C:\Users\Tomislav\Desktop\EvenTime-dam - Copy\EvenTime.Tests\bin\Debug\FluentNHibernate.dll
+C:\Users\Tomislav\Desktop\EvenTime-dam - Copy\EvenTime.Tests\bin\Debug\NHibernate.dll
+C:\Users\Tomislav\Desktop\EvenTime-dam - Copy\EvenTime.Tests\bin\Debug\Iesi.Collections.dll
+C:\Users\Tomislav\Desktop\EvenTime-dam - Copy\EvenTime.Tests\bin\Debug\EvenTime.DomainModel.pdb
+C:\Users\Tomislav\Desktop\EvenTime-dam - Copy\EvenTime.Tests\bin\Debug\FluentNHibernate.xml
+C:\Users\Tomislav\Desktop\EvenTime-dam - Copy\EvenTime.Tests\bin\Debug\NHibernate.xml
+C:\Users\Tomislav\Desktop\EvenTime-dam - Copy\EvenTime.Tests\bin\Debug\Iesi.Collections.xml
+C:\Users\Tomislav\Desktop\EvenTime-dam - Copy\EvenTime.Tests\obj\Debug\EvenTime.Tests.csprojResolveAssemblyReference.cache
+C:\Users\Tomislav\Desktop\EvenTime-dam - Copy\EvenTime.Tests\obj\Debug\EvenTime.Tests.dll
+C:\Users\Tomislav\Desktop\EvenTime-dam - Copy\EvenTime.Tests\obj\Debug\EvenTime.Tests.pdb

@@ -1,0 +1,51 @@
+C:\Users\Tomislav\Desktop\EvenTime\EvenTime.Controllers\obj\Debug\EvenTime.Controllers.csprojResolveAssemblyReference.cache
+C:\Users\Tomislav\Desktop\EvenTime\EvenTime.Controllers\bin\Debug\x64\SQLite.Interop.dll
+C:\Users\Tomislav\Desktop\EvenTime\EvenTime.Controllers\bin\Debug\x86\SQLite.Interop.dll
+C:\Users\Tomislav\Desktop\EvenTime\EvenTime.Controllers\bin\Debug\EvenTime.Controllers.dll
+C:\Users\Tomislav\Desktop\EvenTime\EvenTime.Controllers\bin\Debug\EvenTime.Controllers.pdb
+C:\Users\Tomislav\Desktop\EvenTime\EvenTime.Controllers\bin\Debug\EvenTime.BaseLib.dll
+C:\Users\Tomislav\Desktop\EvenTime\EvenTime.Controllers\bin\Debug\EvenTime.DomainModel.dll
+C:\Users\Tomislav\Desktop\EvenTime\EvenTime.Controllers\bin\Debug\FluentNHibernate.dll
+C:\Users\Tomislav\Desktop\EvenTime\EvenTime.Controllers\bin\Debug\NHibernate.dll
+C:\Users\Tomislav\Desktop\EvenTime\EvenTime.Controllers\bin\Debug\Iesi.Collections.dll
+C:\Users\Tomislav\Desktop\EvenTime\EvenTime.Controllers\bin\Debug\EvenTime.BaseLib.pdb
+C:\Users\Tomislav\Desktop\EvenTime\EvenTime.Controllers\bin\Debug\EvenTime.DomainModel.pdb
+C:\Users\Tomislav\Desktop\EvenTime\EvenTime.Controllers\bin\Debug\FluentNHibernate.xml
+C:\Users\Tomislav\Desktop\EvenTime\EvenTime.Controllers\bin\Debug\NHibernate.xml
+C:\Users\Tomislav\Desktop\EvenTime\EvenTime.Controllers\bin\Debug\Iesi.Collections.xml
+C:\Users\Tomislav\Desktop\EvenTime\EvenTime.Controllers\obj\Debug\EvenTime.Controllers.dll
+C:\Users\Tomislav\Desktop\EvenTime\EvenTime.Controllers\obj\Debug\EvenTime.Controllers.pdb
+C:\Users\Tomislav\Desktop\EvenTime-dam\EvenTime.Controllers\bin\Debug\x64\SQLite.Interop.dll
+C:\Users\Tomislav\Desktop\EvenTime-dam\EvenTime.Controllers\bin\Debug\x86\SQLite.Interop.dll
+C:\Users\Tomislav\Desktop\EvenTime-dam\EvenTime.Controllers\bin\Debug\EvenTime.Controllers.dll
+C:\Users\Tomislav\Desktop\EvenTime-dam\EvenTime.Controllers\bin\Debug\EvenTime.Controllers.pdb
+C:\Users\Tomislav\Desktop\EvenTime-dam\EvenTime.Controllers\bin\Debug\EvenTime.BaseLib.dll
+C:\Users\Tomislav\Desktop\EvenTime-dam\EvenTime.Controllers\bin\Debug\EvenTime.DomainModel.dll
+C:\Users\Tomislav\Desktop\EvenTime-dam\EvenTime.Controllers\bin\Debug\FluentNHibernate.dll
+C:\Users\Tomislav\Desktop\EvenTime-dam\EvenTime.Controllers\bin\Debug\NHibernate.dll
+C:\Users\Tomislav\Desktop\EvenTime-dam\EvenTime.Controllers\bin\Debug\Iesi.Collections.dll
+C:\Users\Tomislav\Desktop\EvenTime-dam\EvenTime.Controllers\bin\Debug\EvenTime.BaseLib.pdb
+C:\Users\Tomislav\Desktop\EvenTime-dam\EvenTime.Controllers\bin\Debug\EvenTime.DomainModel.pdb
+C:\Users\Tomislav\Desktop\EvenTime-dam\EvenTime.Controllers\bin\Debug\FluentNHibernate.xml
+C:\Users\Tomislav\Desktop\EvenTime-dam\EvenTime.Controllers\bin\Debug\NHibernate.xml
+C:\Users\Tomislav\Desktop\EvenTime-dam\EvenTime.Controllers\bin\Debug\Iesi.Collections.xml
+C:\Users\Tomislav\Desktop\EvenTime-dam\EvenTime.Controllers\obj\Debug\EvenTime.Controllers.csprojResolveAssemblyReference.cache
+C:\Users\Tomislav\Desktop\EvenTime-dam\EvenTime.Controllers\obj\Debug\EvenTime.Controllers.dll
+C:\Users\Tomislav\Desktop\EvenTime-dam\EvenTime.Controllers\obj\Debug\EvenTime.Controllers.pdb
+C:\Users\Tomislav\Desktop\EvenTime-dam - Copy\EvenTime.Controllers\bin\Debug\x64\SQLite.Interop.dll
+C:\Users\Tomislav\Desktop\EvenTime-dam - Copy\EvenTime.Controllers\bin\Debug\x86\SQLite.Interop.dll
+C:\Users\Tomislav\Desktop\EvenTime-dam - Copy\EvenTime.Controllers\bin\Debug\EvenTime.Controllers.dll
+C:\Users\Tomislav\Desktop\EvenTime-dam - Copy\EvenTime.Controllers\bin\Debug\EvenTime.Controllers.pdb
+C:\Users\Tomislav\Desktop\EvenTime-dam - Copy\EvenTime.Controllers\bin\Debug\EvenTime.BaseLib.dll
+C:\Users\Tomislav\Desktop\EvenTime-dam - Copy\EvenTime.Controllers\bin\Debug\EvenTime.DomainModel.dll
+C:\Users\Tomislav\Desktop\EvenTime-dam - Copy\EvenTime.Controllers\bin\Debug\FluentNHibernate.dll
+C:\Users\Tomislav\Desktop\EvenTime-dam - Copy\EvenTime.Controllers\bin\Debug\NHibernate.dll
+C:\Users\Tomislav\Desktop\EvenTime-dam - Copy\EvenTime.Controllers\bin\Debug\Iesi.Collections.dll
+C:\Users\Tomislav\Desktop\EvenTime-dam - Copy\EvenTime.Controllers\bin\Debug\EvenTime.BaseLib.pdb
+C:\Users\Tomislav\Desktop\EvenTime-dam - Copy\EvenTime.Controllers\bin\Debug\EvenTime.DomainModel.pdb
+C:\Users\Tomislav\Desktop\EvenTime-dam - Copy\EvenTime.Controllers\bin\Debug\FluentNHibernate.xml
+C:\Users\Tomislav\Desktop\EvenTime-dam - Copy\EvenTime.Controllers\bin\Debug\NHibernate.xml
+C:\Users\Tomislav\Desktop\EvenTime-dam - Copy\EvenTime.Controllers\bin\Debug\Iesi.Collections.xml
+C:\Users\Tomislav\Desktop\EvenTime-dam - Copy\EvenTime.Controllers\obj\Debug\EvenTime.Controllers.csprojResolveAssemblyReference.cache
+C:\Users\Tomislav\Desktop\EvenTime-dam - Copy\EvenTime.Controllers\obj\Debug\EvenTime.Controllers.dll
+C:\Users\Tomislav\Desktop\EvenTime-dam - Copy\EvenTime.Controllers\obj\Debug\EvenTime.Controllers.pdb

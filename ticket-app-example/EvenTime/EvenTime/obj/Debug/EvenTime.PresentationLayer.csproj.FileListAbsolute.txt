@@ -1,0 +1,140 @@
+C:\Users\Tomislav\Desktop\EvenTime\EvenTime\obj\Debug\EvenTime.PresentationLayer.csprojResolveAssemblyReference.cache
+C:\Users\Tomislav\Desktop\EvenTime\EvenTime\obj\Debug\EvenTime.AdminForm.resources
+C:\Users\Tomislav\Desktop\EvenTime\EvenTime\obj\Debug\EvenTime.BuyForm.resources
+C:\Users\Tomislav\Desktop\EvenTime\EvenTime\obj\Debug\EvenTime.CategoryForm.resources
+C:\Users\Tomislav\Desktop\EvenTime\EvenTime\obj\Debug\EvenTime.CustomerForm.resources
+C:\Users\Tomislav\Desktop\EvenTime\EvenTime\obj\Debug\EvenTime.EventForm.resources
+C:\Users\Tomislav\Desktop\EvenTime\EvenTime\obj\Debug\EvenTime.LocationForm.resources
+C:\Users\Tomislav\Desktop\EvenTime\EvenTime\obj\Debug\EvenTime.LogInForm.resources
+C:\Users\Tomislav\Desktop\EvenTime\EvenTime\obj\Debug\EvenTime.MainForm.resources
+C:\Users\Tomislav\Desktop\EvenTime\EvenTime\obj\Debug\EvenTime.Properties.Resources.resources
+C:\Users\Tomislav\Desktop\EvenTime\EvenTime\obj\Debug\EvenTime.ReportForm.resources
+C:\Users\Tomislav\Desktop\EvenTime\EvenTime\obj\Debug\EvenTime.ReservationForm.resources
+C:\Users\Tomislav\Desktop\EvenTime\EvenTime\obj\Debug\EvenTime.PresentationLayer.csproj.GenerateResource.Cache
+C:\Users\Tomislav\Desktop\EvenTime\EvenTime\bin\Debug\x64\SQLite.Interop.dll
+C:\Users\Tomislav\Desktop\EvenTime\EvenTime\bin\Debug\x86\SQLite.Interop.dll
+C:\Users\Tomislav\Desktop\EvenTime\EvenTime\bin\Debug\EvenTime.exe
+C:\Users\Tomislav\Desktop\EvenTime\EvenTime\bin\Debug\EvenTime.pdb
+C:\Users\Tomislav\Desktop\EvenTime\EvenTime\bin\Debug\EvenTime.BaseLib.dll
+C:\Users\Tomislav\Desktop\EvenTime\EvenTime\bin\Debug\EvenTime.Controllers.dll
+C:\Users\Tomislav\Desktop\EvenTime\EvenTime\bin\Debug\EvenTime.DomainModel.dll
+C:\Users\Tomislav\Desktop\EvenTime\EvenTime\bin\Debug\FluentNHibernate.dll
+C:\Users\Tomislav\Desktop\EvenTime\EvenTime\bin\Debug\NHibernate.dll
+C:\Users\Tomislav\Desktop\EvenTime\EvenTime\bin\Debug\Iesi.Collections.dll
+C:\Users\Tomislav\Desktop\EvenTime\EvenTime\bin\Debug\EvenTime.BaseLib.pdb
+C:\Users\Tomislav\Desktop\EvenTime\EvenTime\bin\Debug\EvenTime.Controllers.pdb
+C:\Users\Tomislav\Desktop\EvenTime\EvenTime\bin\Debug\EvenTime.DomainModel.pdb
+C:\Users\Tomislav\Desktop\EvenTime\EvenTime\bin\Debug\FluentNHibernate.xml
+C:\Users\Tomislav\Desktop\EvenTime\EvenTime\bin\Debug\NHibernate.xml
+C:\Users\Tomislav\Desktop\EvenTime\EvenTime\bin\Debug\Iesi.Collections.xml
+C:\Users\Tomislav\Desktop\EvenTime\EvenTime\obj\Debug\EvenTime.exe
+C:\Users\Tomislav\Desktop\EvenTime\EvenTime\obj\Debug\EvenTime.pdb
+C:\Users\Tomislav\Desktop\EvenTime\EvenTime\bin\Debug\EvenTime.exe.config
+C:\Users\Tomislav\Desktop\EvenTime\EvenTime\bin\Debug\System.Data.SQLite.dll
+C:\Users\Tomislav\Desktop\EvenTime\EvenTime\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\Tomislav\Desktop\EvenTime\EvenTime\bin\Debug\System.Data.SQLite.xml
+C:\Users\Tomislav\Desktop\EvenTime-dam\EvenTime\bin\Debug\EvenTime.exe.config
+C:\Users\Tomislav\Desktop\EvenTime-dam\EvenTime\obj\Debug\EvenTime.exe
+C:\Users\Tomislav\Desktop\EvenTime-dam\EvenTime\obj\Debug\EvenTime.pdb
+C:\Users\Tomislav\Desktop\EvenTime-dam\EvenTime\bin\Debug\x64\SQLite.Interop.dll
+C:\Users\Tomislav\Desktop\EvenTime-dam\EvenTime\bin\Debug\x86\SQLite.Interop.dll
+C:\Users\Tomislav\Desktop\EvenTime-dam\EvenTime\bin\Debug\EvenTime.exe
+C:\Users\Tomislav\Desktop\EvenTime-dam\EvenTime\bin\Debug\EvenTime.pdb
+C:\Users\Tomislav\Desktop\EvenTime-dam\EvenTime\bin\Debug\EvenTime.BaseLib.dll
+C:\Users\Tomislav\Desktop\EvenTime-dam\EvenTime\bin\Debug\EvenTime.Controllers.dll
+C:\Users\Tomislav\Desktop\EvenTime-dam\EvenTime\bin\Debug\EvenTime.DomainModel.dll
+C:\Users\Tomislav\Desktop\EvenTime-dam\EvenTime\bin\Debug\FluentNHibernate.dll
+C:\Users\Tomislav\Desktop\EvenTime-dam\EvenTime\bin\Debug\Iesi.Collections.dll
+C:\Users\Tomislav\Desktop\EvenTime-dam\EvenTime\bin\Debug\NHibernate.dll
+C:\Users\Tomislav\Desktop\EvenTime-dam\EvenTime\bin\Debug\System.Data.SQLite.dll
+C:\Users\Tomislav\Desktop\EvenTime-dam\EvenTime\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\Tomislav\Desktop\EvenTime-dam\EvenTime\bin\Debug\EvenTime.BaseLib.pdb
+C:\Users\Tomislav\Desktop\EvenTime-dam\EvenTime\bin\Debug\EvenTime.Controllers.pdb
+C:\Users\Tomislav\Desktop\EvenTime-dam\EvenTime\bin\Debug\EvenTime.DomainModel.pdb
+C:\Users\Tomislav\Desktop\EvenTime-dam\EvenTime\bin\Debug\FluentNHibernate.xml
+C:\Users\Tomislav\Desktop\EvenTime-dam\EvenTime\bin\Debug\Iesi.Collections.xml
+C:\Users\Tomislav\Desktop\EvenTime-dam\EvenTime\bin\Debug\NHibernate.xml
+C:\Users\Tomislav\Desktop\EvenTime-dam\EvenTime\bin\Debug\System.Data.SQLite.xml
+C:\Users\Tomislav\Desktop\EvenTime-dam\EvenTime\obj\Debug\EvenTime.PresentationLayer.csprojResolveAssemblyReference.cache
+C:\Users\Tomislav\Desktop\EvenTime-dam\EvenTime\obj\Debug\EvenTime.AdminForm.resources
+C:\Users\Tomislav\Desktop\EvenTime-dam\EvenTime\obj\Debug\EvenTime.BuyForm.resources
+C:\Users\Tomislav\Desktop\EvenTime-dam\EvenTime\obj\Debug\EvenTime.CategoryForm.resources
+C:\Users\Tomislav\Desktop\EvenTime-dam\EvenTime\obj\Debug\EvenTime.CustomerForm.resources
+C:\Users\Tomislav\Desktop\EvenTime-dam\EvenTime\obj\Debug\EvenTime.EventForm.resources
+C:\Users\Tomislav\Desktop\EvenTime-dam\EvenTime\obj\Debug\EvenTime.LocationForm.resources
+C:\Users\Tomislav\Desktop\EvenTime-dam\EvenTime\obj\Debug\EvenTime.LogInForm.resources
+C:\Users\Tomislav\Desktop\EvenTime-dam\EvenTime\obj\Debug\EvenTime.MainForm.resources
+C:\Users\Tomislav\Desktop\EvenTime-dam\EvenTime\obj\Debug\EvenTime.Properties.Resources.resources
+C:\Users\Tomislav\Desktop\EvenTime-dam\EvenTime\obj\Debug\EvenTime.ReportForm.resources
+C:\Users\Tomislav\Desktop\EvenTime-dam\EvenTime\obj\Debug\EvenTime.ReservationForm.resources
+C:\Users\Tomislav\Desktop\EvenTime-dam\EvenTime\obj\Debug\EvenTime.PresentationLayer.csproj.GenerateResource.Cache
+C:\Users\Tomislav\Desktop\EvenTime-dam - Copy\EvenTime\bin\Debug\EvenTime.exe.config
+C:\Users\Tomislav\Desktop\EvenTime-dam - Copy\EvenTime\obj\Debug\EvenTime.exe
+C:\Users\Tomislav\Desktop\EvenTime-dam - Copy\EvenTime\obj\Debug\EvenTime.pdb
+C:\Users\Tomislav\Desktop\EvenTime-dam - Copy\EvenTime\bin\Debug\x64\SQLite.Interop.dll
+C:\Users\Tomislav\Desktop\EvenTime-dam - Copy\EvenTime\bin\Debug\x86\SQLite.Interop.dll
+C:\Users\Tomislav\Desktop\EvenTime-dam - Copy\EvenTime\bin\Debug\EvenTime.exe
+C:\Users\Tomislav\Desktop\EvenTime-dam - Copy\EvenTime\bin\Debug\EvenTime.pdb
+C:\Users\Tomislav\Desktop\EvenTime-dam - Copy\EvenTime\bin\Debug\EvenTime.BaseLib.dll
+C:\Users\Tomislav\Desktop\EvenTime-dam - Copy\EvenTime\bin\Debug\EvenTime.Controllers.dll
+C:\Users\Tomislav\Desktop\EvenTime-dam - Copy\EvenTime\bin\Debug\EvenTime.DomainModel.dll
+C:\Users\Tomislav\Desktop\EvenTime-dam - Copy\EvenTime\bin\Debug\FluentNHibernate.dll
+C:\Users\Tomislav\Desktop\EvenTime-dam - Copy\EvenTime\bin\Debug\Iesi.Collections.dll
+C:\Users\Tomislav\Desktop\EvenTime-dam - Copy\EvenTime\bin\Debug\NHibernate.dll
+C:\Users\Tomislav\Desktop\EvenTime-dam - Copy\EvenTime\bin\Debug\System.Data.SQLite.dll
+C:\Users\Tomislav\Desktop\EvenTime-dam - Copy\EvenTime\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\Tomislav\Desktop\EvenTime-dam - Copy\EvenTime\bin\Debug\EvenTime.BaseLib.pdb
+C:\Users\Tomislav\Desktop\EvenTime-dam - Copy\EvenTime\bin\Debug\EvenTime.Controllers.pdb
+C:\Users\Tomislav\Desktop\EvenTime-dam - Copy\EvenTime\bin\Debug\EvenTime.DomainModel.pdb
+C:\Users\Tomislav\Desktop\EvenTime-dam - Copy\EvenTime\bin\Debug\FluentNHibernate.xml
+C:\Users\Tomislav\Desktop\EvenTime-dam - Copy\EvenTime\bin\Debug\Iesi.Collections.xml
+C:\Users\Tomislav\Desktop\EvenTime-dam - Copy\EvenTime\bin\Debug\NHibernate.xml
+C:\Users\Tomislav\Desktop\EvenTime-dam - Copy\EvenTime\bin\Debug\System.Data.SQLite.xml
+C:\Users\Tomislav\Desktop\EvenTime-dam - Copy\EvenTime\obj\Debug\EvenTime.PresentationLayer.csprojResolveAssemblyReference.cache
+C:\Users\Tomislav\Desktop\EvenTime-dam - Copy\EvenTime\obj\Debug\EvenTime.AdminForm.resources
+C:\Users\Tomislav\Desktop\EvenTime-dam - Copy\EvenTime\obj\Debug\EvenTime.BuyForm.resources
+C:\Users\Tomislav\Desktop\EvenTime-dam - Copy\EvenTime\obj\Debug\EvenTime.CategoryForm.resources
+C:\Users\Tomislav\Desktop\EvenTime-dam - Copy\EvenTime\obj\Debug\EvenTime.CustomerForm.resources
+C:\Users\Tomislav\Desktop\EvenTime-dam - Copy\EvenTime\obj\Debug\EvenTime.EventForm.resources
+C:\Users\Tomislav\Desktop\EvenTime-dam - Copy\EvenTime\obj\Debug\EvenTime.LocationForm.resources
+C:\Users\Tomislav\Desktop\EvenTime-dam - Copy\EvenTime\obj\Debug\EvenTime.LogInForm.resources
+C:\Users\Tomislav\Desktop\EvenTime-dam - Copy\EvenTime\obj\Debug\EvenTime.MainForm.resources
+C:\Users\Tomislav\Desktop\EvenTime-dam - Copy\EvenTime\obj\Debug\EvenTime.Properties.Resources.resources
+C:\Users\Tomislav\Desktop\EvenTime-dam - Copy\EvenTime\obj\Debug\EvenTime.ReportForm.resources
+C:\Users\Tomislav\Desktop\EvenTime-dam - Copy\EvenTime\obj\Debug\EvenTime.ReservationForm.resources
+C:\Users\Tomislav\Desktop\EvenTime-dam - Copy\EvenTime\obj\Debug\EvenTime.PresentationLayer.csproj.GenerateResource.Cache
+C:\Users\Tomislav\Desktop\EvenTime-hehe\EvenTime\bin\Debug\EvenTime.exe.config
+C:\Users\Tomislav\Desktop\EvenTime-hehe\EvenTime\obj\Debug\EvenTime.exe
+C:\Users\Tomislav\Desktop\EvenTime-hehe\EvenTime\obj\Debug\EvenTime.pdb
+C:\Users\Tomislav\Desktop\EvenTime-hehe\EvenTime\bin\Debug\x64\SQLite.Interop.dll
+C:\Users\Tomislav\Desktop\EvenTime-hehe\EvenTime\bin\Debug\x86\SQLite.Interop.dll
+C:\Users\Tomislav\Desktop\EvenTime-hehe\EvenTime\bin\Debug\EvenTime.exe
+C:\Users\Tomislav\Desktop\EvenTime-hehe\EvenTime\bin\Debug\EvenTime.pdb
+C:\Users\Tomislav\Desktop\EvenTime-hehe\EvenTime\bin\Debug\EvenTime.BaseLib.dll
+C:\Users\Tomislav\Desktop\EvenTime-hehe\EvenTime\bin\Debug\EvenTime.Controllers.dll
+C:\Users\Tomislav\Desktop\EvenTime-hehe\EvenTime\bin\Debug\EvenTime.DomainModel.dll
+C:\Users\Tomislav\Desktop\EvenTime-hehe\EvenTime\bin\Debug\FluentNHibernate.dll
+C:\Users\Tomislav\Desktop\EvenTime-hehe\EvenTime\bin\Debug\Iesi.Collections.dll
+C:\Users\Tomislav\Desktop\EvenTime-hehe\EvenTime\bin\Debug\NHibernate.dll
+C:\Users\Tomislav\Desktop\EvenTime-hehe\EvenTime\bin\Debug\System.Data.SQLite.dll
+C:\Users\Tomislav\Desktop\EvenTime-hehe\EvenTime\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\Tomislav\Desktop\EvenTime-hehe\EvenTime\bin\Debug\EvenTime.BaseLib.pdb
+C:\Users\Tomislav\Desktop\EvenTime-hehe\EvenTime\bin\Debug\EvenTime.Controllers.pdb
+C:\Users\Tomislav\Desktop\EvenTime-hehe\EvenTime\bin\Debug\EvenTime.DomainModel.pdb
+C:\Users\Tomislav\Desktop\EvenTime-hehe\EvenTime\bin\Debug\FluentNHibernate.xml
+C:\Users\Tomislav\Desktop\EvenTime-hehe\EvenTime\bin\Debug\Iesi.Collections.xml
+C:\Users\Tomislav\Desktop\EvenTime-hehe\EvenTime\bin\Debug\NHibernate.xml
+C:\Users\Tomislav\Desktop\EvenTime-hehe\EvenTime\bin\Debug\System.Data.SQLite.xml
+C:\Users\Tomislav\Desktop\EvenTime-hehe\EvenTime\obj\Debug\EvenTime.PresentationLayer.csprojResolveAssemblyReference.cache
+C:\Users\Tomislav\Desktop\EvenTime-hehe\EvenTime\obj\Debug\EvenTime.AdminForm.resources
+C:\Users\Tomislav\Desktop\EvenTime-hehe\EvenTime\obj\Debug\EvenTime.BuyForm.resources
+C:\Users\Tomislav\Desktop\EvenTime-hehe\EvenTime\obj\Debug\EvenTime.CategoryForm.resources
+C:\Users\Tomislav\Desktop\EvenTime-hehe\EvenTime\obj\Debug\EvenTime.CustomerForm.resources
+C:\Users\Tomislav\Desktop\EvenTime-hehe\EvenTime\obj\Debug\EvenTime.EventForm.resources
+C:\Users\Tomislav\Desktop\EvenTime-hehe\EvenTime\obj\Debug\EvenTime.LocationForm.resources
+C:\Users\Tomislav\Desktop\EvenTime-hehe\EvenTime\obj\Debug\EvenTime.LogInForm.resources
+C:\Users\Tomislav\Desktop\EvenTime-hehe\EvenTime\obj\Debug\EvenTime.MainForm.resources
+C:\Users\Tomislav\Desktop\EvenTime-hehe\EvenTime\obj\Debug\EvenTime.Properties.Resources.resources
+C:\Users\Tomislav\Desktop\EvenTime-hehe\EvenTime\obj\Debug\EvenTime.ReportForm.resources
+C:\Users\Tomislav\Desktop\EvenTime-hehe\EvenTime\obj\Debug\EvenTime.ReservationForm.resources
+C:\Users\Tomislav\Desktop\EvenTime-hehe\EvenTime\obj\Debug\EvenTime.PresentationLayer.csproj.GenerateResource.Cache

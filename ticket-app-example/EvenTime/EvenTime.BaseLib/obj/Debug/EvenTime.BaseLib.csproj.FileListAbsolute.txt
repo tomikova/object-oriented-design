@@ -1,0 +1,5 @@
+C:\Users\Tomislav\Desktop\EvenTime\EvenTime.BaseLib\bin\Debug\EvenTime.BaseLib.dll
+C:\Users\Tomislav\Desktop\EvenTime\EvenTime.BaseLib\bin\Debug\EvenTime.BaseLib.pdb
+C:\Users\Tomislav\Desktop\EvenTime\EvenTime.BaseLib\obj\Debug\EvenTime.BaseLib.csprojResolveAssemblyReference.cache
+C:\Users\Tomislav\Desktop\EvenTime\EvenTime.BaseLib\obj\Debug\EvenTime.BaseLib.dll
+C:\Users\Tomislav\Desktop\EvenTime\EvenTime.BaseLib\obj\Debug\EvenTime.BaseLib.pdb
