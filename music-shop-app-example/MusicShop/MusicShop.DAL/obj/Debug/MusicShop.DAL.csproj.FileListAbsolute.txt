@@ -1,0 +1,10 @@
+C:\Users\Tomislav\Desktop\MusicShopV2\MusicShop.DAL\bin\Debug\MusicShop.DAL.dll
+C:\Users\Tomislav\Desktop\MusicShopV2\MusicShop.DAL\bin\Debug\MusicShop.DAL.pdb
+C:\Users\Tomislav\Desktop\MusicShopV2\MusicShop.DAL\obj\Debug\MusicShop.DAL.csprojResolveAssemblyReference.cache
+C:\Users\Tomislav\Desktop\MusicShopV2\MusicShop.DAL\obj\Debug\MusicShop.DAL.dll
+C:\Users\Tomislav\Desktop\MusicShopV2\MusicShop.DAL\obj\Debug\MusicShop.DAL.pdb
+C:\Users\Tomislav\Desktop\MusicShopV2\MusicShop.DAL\bin\Debug\Iesi.Collections.dll
+C:\Users\Tomislav\Desktop\MusicShopV2\MusicShop.DAL\bin\Debug\NHibernate.dll
+C:\Users\Tomislav\Desktop\MusicShopV2\MusicShop.DAL\bin\Debug\Iesi.Collections.xml
+C:\Users\Tomislav\Desktop\MusicShopV2\MusicShop.DAL\bin\Debug\NHibernate.xml
+C:\Users\Tomislav\Desktop\MusicShopV2\MusicShop.DAL\bin\Debug\Csla.dll

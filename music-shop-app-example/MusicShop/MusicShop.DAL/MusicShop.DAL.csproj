@@ -1,0 +1,90 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{31C4C402-3E25-4425-8622-A8A67FCA0348}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>MusicShop.DAL</RootNamespace>
+    <AssemblyName>MusicShop.DAL</AssemblyName>
+    <TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Csla">
+      <HintPath>..\Csla.dll</HintPath>
+    </Reference>
+    <Reference Include="Iesi.Collections">
+      <HintPath>..\packages\Iesi.Collections.3.2.0.1001\lib\Net35\Iesi.Collections.dll</HintPath>
+    </Reference>
+    <Reference Include="NHibernate">
+      <HintPath>..\packages\NHibernate.3.3.3.4001\lib\Net35\NHibernate.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Core\Djelatnik.cs" />
+    <Compile Include="Core\Kategorija.cs" />
+    <Compile Include="Core\Kupac.cs" />
+    <Compile Include="Core\Osoba.cs" />
+    <Compile Include="Core\Proizvod.cs" />
+    <Compile Include="Core\Racun.cs" />
+    <Compile Include="Core\Repositories.cs" />
+    <Compile Include="Core\Stavka.cs" />
+    <Compile Include="Core\StavkaKupovina.cs" />
+    <Compile Include="Core\StavkaPosudba.cs" />
+    <Compile Include="Core\StavkaServis.cs" />
+    <Compile Include="Core\VrstaPlacanja.cs" />
+    <Compile Include="Core\Zanimanje.cs" />
+    <Compile Include="Mappings\DjelatnikMap.cs" />
+    <Compile Include="Mappings\KategorijaMap.cs" />
+    <Compile Include="Mappings\KupacMap.cs" />
+    <Compile Include="Mappings\OsobaMap.cs" />
+    <Compile Include="Mappings\ProizvodMap.cs" />
+    <Compile Include="Mappings\RacunMap.cs" />
+    <Compile Include="Mappings\StavkaKupovinaMap.cs" />
+    <Compile Include="Mappings\StavkaMap.cs" />
+    <Compile Include="Mappings\StavkaPosudbaMap.cs" />
+    <Compile Include="Mappings\StavkaServisMap.cs" />
+    <Compile Include="Mappings\VrstaPlacanjaMap.cs" />
+    <Compile Include="Mappings\ZanimanjeMap.cs" />
+    <Compile Include="NHibernateService.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="packages.config" />
+  </ItemGroup>
+  <ItemGroup />
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

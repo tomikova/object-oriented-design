@@ -1,0 +1,207 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{A5473E0B-8AF6-4DDE-BFC1-6EA6F7767494}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>MusicShop</RootNamespace>
+    <AssemblyName>MusicShop</AssemblyName>
+    <TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Csla">
+      <HintPath>..\Csla.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="IzvjesceForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="IzvjesceForm.Designer.cs">
+      <DependentUpon>IzvjesceForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="KategorijeForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="KategorijeForm.Designer.cs">
+      <DependentUpon>KategorijeForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="KorisniciForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="KorisniciForm.Designer.cs">
+      <DependentUpon>KorisniciForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ShoppingCart.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ShoppingCart.Designer.cs">
+      <DependentUpon>ShoppingCart.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MainForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MainForm.Designer.cs">
+      <DependentUpon>MainForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="OsobePretragaForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="OsobePretragaForm.Designer.cs">
+      <DependentUpon>OsobePretragaForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="ProizvodiForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ProizvodiForm.Designer.cs">
+      <DependentUpon>ProizvodiForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ProizvodiPretragaForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ProizvodiPretragaForm.Designer.cs">
+      <DependentUpon>ProizvodiPretragaForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="ZanimanjaForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ZanimanjaForm.Designer.cs">
+      <DependentUpon>ZanimanjaForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ZaposleniciForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ZaposleniciForm.Designer.cs">
+      <DependentUpon>ZaposleniciForm.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="IzvjesceForm.resx">
+      <DependentUpon>IzvjesceForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="KategorijeForm.resx">
+      <DependentUpon>KategorijeForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="KorisniciForm.resx">
+      <DependentUpon>KorisniciForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ShoppingCart.resx">
+      <DependentUpon>ShoppingCart.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MainForm.resx">
+      <DependentUpon>MainForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="OsobePretragaForm.resx">
+      <DependentUpon>OsobePretragaForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ProizvodiForm.resx">
+      <DependentUpon>ProizvodiForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ProizvodiPretragaForm.resx">
+      <DependentUpon>ProizvodiPretragaForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="ZanimanjaForm.resx">
+      <DependentUpon>ZanimanjaForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ZaposleniciForm.resx">
+      <DependentUpon>ZaposleniciForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="Properties\DataSources\MusicShop.BLL.Djelatnik.datasource" />
+    <None Include="Properties\DataSources\MusicShop.BLL.Kategorija.datasource" />
+    <None Include="Properties\DataSources\MusicShop.BLL.Kupac.datasource" />
+    <None Include="Properties\DataSources\MusicShop.BLL.Proizvod.datasource" />
+    <None Include="Properties\DataSources\MusicShop.BLL.Racun.datasource" />
+    <None Include="Properties\DataSources\MusicShop.BLL.StavkaKupovina.datasource" />
+    <None Include="Properties\DataSources\MusicShop.BLL.StavkaKupovinaInfo.datasource" />
+    <None Include="Properties\DataSources\MusicShop.BLL.StavkaPosudba.datasource" />
+    <None Include="Properties\DataSources\MusicShop.BLL.StavkaPosudbaInfo.datasource" />
+    <None Include="Properties\DataSources\MusicShop.BLL.VrstaPlacanja.datasource" />
+    <None Include="Properties\DataSources\MusicShop.BLL.Zanimanje.datasource" />
+    <None Include="Properties\DataSources\MusicShop.DAL.Racun.datasource" />
+    <None Include="Properties\DataSources\MusicShop.DAL.StavkaKupovina.datasource" />
+    <None Include="Properties\DataSources\MusicShop.DAL.StavkaKupovinaInfo.datasource" />
+    <None Include="Properties\DataSources\MusicShop.DAL.StavkaPosudba.datasource" />
+    <None Include="Properties\DataSources\MusicShop.DAL.StavkaPosudbaInfo.datasource" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <WCFMetadata Include="Service References\" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\MusicShop.BLL\MusicShop.BLL.csproj">
+      <Project>{2d209fee-1e78-4fda-9e19-5db54f108b4e}</Project>
+      <Name>MusicShop.BLL</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\MusicShop.DAL\MusicShop.DAL.csproj">
+      <Project>{31c4c402-3e25-4425-8622-a8a67fca0348}</Project>
+      <Name>MusicShop.DAL</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\btnEdit.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\btnCancel.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\btnSave.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
